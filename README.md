@@ -21,31 +21,6 @@ A maintainer will review your request and, if approved, you’ll receive an invi
 
 ---
 
-## 📂 What You’ll Find Here
-
-- **Community Projects** → Repositories created and maintained by community members.  
-- **Membership Requests** → All handled via [Issues](https://github.com/Neat-Community-API/membership-requests/issues).  
-- **Future Discussions** → A place to share ideas, ask questions, and collaborate (coming soon).  
-
----
-
-## 🤝 Contributing
-
-We welcome all contributions, whether it’s code, documentation, or ideas.  
-To contribute:
-- Open an issue to discuss your idea or request a new repo.  
-- Follow the [Code of Conduct](./CODE_OF_CONDUCT.md).  
-- Use the [MIT License](./LICENSE) (or project-specific license) when publishing code.  
-
----
-
-## 📜 Code of Conduct
-
-This community follows a [Code of Conduct](./CODE_OF_CONDUCT.md).  
-By participating, you agree to uphold a respectful and inclusive environment.
-
----
-
 ## 💡 Questions?
 
 - Open a [Membership Request](https://github.com/Neat-Community-API/membership-requests/issues/new/choose) if you’d like to join the org.  
