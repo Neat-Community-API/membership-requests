@@ -21,6 +21,18 @@ A maintainer will review your request and, if approved, you’ll receive an invi
 
 ---
 
+---
+
+## 🔗 Community Home
+
+Once your membership request is approved, head over to the  
+👉 [Neat Pulse API Community Home Page](https://github.com/Neat-Community-API/.github/blob/main/profile/README.md)  
+
+There you’ll find:
+- Community guidelines  
+- Contribution instructions  
+- Links to all community projects and resources
+
 ## 💡 Questions?
 
 - Open a [Membership Request](https://github.com/Neat-Community-API/membership-requests/issues/new/choose) if you’d like to join the org.  
