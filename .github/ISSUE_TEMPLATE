@@ -1,0 +1,40 @@
+name: "Membership Request"
+description: "Request to join the Neat Pulse Community organization."
+title: "Membership request: [your GitHub username]"
+labels: ["membership-request"]
+body:
+  - type: input
+    id: username
+    attributes:
+      label: "GitHub Username"
+      description: "So we can invite you to the org."
+      placeholder: "e.g., chris-rouge"
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: "Email (optional)"
+      description: "If you prefer we contact you by email."
+      placeholder: "you@example.com"
+    validations:
+      required: false
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: "Why do you want to join?"
+      description: "What would you like to build or contribute? (a few sentences)"
+      placeholder: "I plan to share Python scripts and dashboards for the Neat Pulse API..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: "Agreement"
+      description: "You must agree to proceed."
+      options:
+        - label: "I agree to follow the community Code of Conduct."
+          required: true
